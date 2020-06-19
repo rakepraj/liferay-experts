@@ -1,4 +1,1 @@
-HELLO ,GIT
-Hello Again 
-
-This is text file.
+## This file contain info about Liferay
