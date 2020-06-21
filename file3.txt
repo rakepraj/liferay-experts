@@ -1,1 +1,2 @@
 This is file edited by me.
+This is some text.
